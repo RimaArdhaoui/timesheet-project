@@ -1,0 +1,17 @@
+# Build
+target/
+
+# IDE
+.idea/
+.settings/
+.classpath
+.project
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS
+.DS_Store
+Thumbs.db
